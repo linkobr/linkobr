@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Link O'Brennan.
 
+I am an undergraduate student studying Women and Gender Studies and Anthropology at the University of Colorado - Boulder. 
 <!--
 **linkobr/linkobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
